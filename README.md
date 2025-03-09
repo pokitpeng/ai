@@ -2,6 +2,8 @@
 
 A command line tool that allows programmers to interact directly with AI large language models in the terminal.
 
+Developed by Cursor.
+
 ## Features
 
 - Ask questions directly to AI models
